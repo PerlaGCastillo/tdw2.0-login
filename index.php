@@ -1,5 +1,6 @@
 <?php /*esto inicia un bloque de código en php*/
 
+<<<<<<< HEAD
     $user = $_GET['usuario'];
     $pass = $_GET['contraseña']; /*guarda la variable $pass*/
 
@@ -16,6 +17,13 @@ if($user != "PerlaGCastillo" ||$pass !="12357"){
     /*echo $_GET["usuario"]; 
     
     echo nos permite imprimir resultados como en el document.write*/
+=======
+echo "funciona php"; 
+    /*echo nos permite imprimir resultados 
+    "como en el document.write"*/
+
+
+>>>>>>> 2305469a8a4fa5ad7ddad3e12bfca17c5b0ec23d
 /*esto inicia un bloque de código en php*/
 ?>
 
@@ -46,8 +54,11 @@ if($user != "PerlaGCastillo" ||$pass !="12357"){
         </footer>
 </body>
 </html>
+<<<<<<< HEAD
 
 
 <?php
 } /*termina bloque autorizado*/
 ?>
+=======
+>>>>>>> 2305469a8a4fa5ad7ddad3e12bfca17c5b0ec23d
